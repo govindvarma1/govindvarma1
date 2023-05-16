@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center">Hi 👋, I'm Govinda Varma</h1>
-<h3 align="center">I'm a ECE student aspiring to become a skilled software developer</h3>
+<h1>Hi 👋, I'm Govinda Varma</h1>
+<h3>I'm a ECE student aspiring to become a skilled software developer</h3>
 
 - 🌱 I’m currently learning **Backend Web Development**
 
