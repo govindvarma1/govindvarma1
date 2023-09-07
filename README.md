@@ -2,7 +2,7 @@
 <h2 align="left">About Me:</h2>
 
 - 🏦 I'm an ECE undergrad aspiring to become a skilled software developer
-- 🌱 I’m currently developing my skills in the field Full Stack web development
+- 🌱 I’m currently developing my skills in the field Full Stack web development and AI/ML
 - 👯 I’m looking to collaborate on open source projects that come under the domain of my skills and the projects that can help me develop skills and learn from.
 - 📫 How to reach me **saivarmakallepalli19@gmail.com**
 
