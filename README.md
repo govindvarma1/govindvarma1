@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Govinda Varma</h1>
-<h2 align="left">I'm a Full Stack Developer, focusing on the MERN stack, and a tech enthusiast!</h2>
+<h2 align="left">I'm a Full Stack Developer, and a tech enthusiast!</h2>
 <strong align="left">About Me:</strong>
 
 - 🏦 I'm an ECE undergrad aspiring to become a skilled software developer
