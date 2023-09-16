@@ -1,8 +1,9 @@
 <h1 align="left">Hi 👋, I'm Govinda Varma</h1>
-<h2 align="left">About Me:</h2>
+<h2 align="left">I'm a Full Stack Developer, focusing on the MERN stack, and a tech enthusiast!</h2>
+<strong align="left">About Me:</strong>
 
 - 🏦 I'm an ECE undergrad aspiring to become a skilled software developer
-- 🌱 I’m currently developing my skills in the field of Full Stack web development and AI/ML
+- 🌱 I’m currently developing my skills in the field of AI/ML
 - 👯 I’m looking to collaborate on open source projects that come under the domain of my skills and the projects that can help me develop skills and learn from.
 - 📫 How to reach me **saivarmakallepalli19@gmail.com**
 
