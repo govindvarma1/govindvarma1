@@ -6,6 +6,7 @@
 - 🌱 I’m currently developing my skills in the field of AI/ML
 - 👯 I’m looking to collaborate on open source projects that come under the domain of my skills and the projects that can help me develop skills and learn from.
 - 📫 How to reach me **saivarmakallepalli19@gmail.com**
+- 📄 Here's my resume - [Click Here](https://drive.google.com/file/d/1zF8QPBO_fdGKxSKFU_AudUpfIJlw0y1O/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
