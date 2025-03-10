@@ -3,7 +3,8 @@
 <strong align="left">About Me:</strong>
 
 - 🏦 I'm an ECE undergrad aspiring to become a skilled software developer
-- 🌱 I’m currently developing my skills in the field of Blockchain and AI/ML
+- 👨‍💻 Currently working as Software Engineer Intern at Amdocs
+- 🌱 I’m currently developing my skills in the field of Machine Learning and Deep Learning
 - 👯 I’m looking to collaborate on open source projects that come under the domain of my skills and the projects that can help me develop skills and learn from.
 - 📫 How to reach me **saivarmakallepalli19@gmail.com**
 - 📄 Here's my resume - [<strong>Click Here</strong>](https://drive.google.com/drive/folders/1OA1RbQZcjRg1nUCLlj-r8im_jqD3H1Sb?usp=sharing)
