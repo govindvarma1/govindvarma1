@@ -3,7 +3,6 @@
 <strong align="left">About Me:</strong>
 
 - 🏦 I'm an ECE undergrad aspiring to become a skilled software developer
-- 👨‍💻 Currently working as Software Engineer Intern at Amdocs
 - 🌱 I’m currently developing my skills in the field of Machine Learning and Deep Learning
 - 👯 I’m looking to collaborate on open source projects that come under the domain of my skills and the projects that can help me develop skills and learn from.
 - 📫 How to reach me **saivarmakallepalli19@gmail.com**
